@@ -1,14 +1,5 @@
 [
-  {
-    "username": "dzxx",
-    "password": "12345"
-  },
-  {
-    "username": "admin",
-    "password": "adminpass"
-  },
-  {
-    "username": "modhzy",
-    "password": "paradoxking"
-  }
+  { "username": "dzxx", "password": "12345", "role": "owner" },
+  { "username": "admin", "password": "adminpass", "role": "admin" },
+  { "username": "modhzy", "password": "paradoxking", "role": "premium" }
 ]
